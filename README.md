@@ -17,6 +17,6 @@ Set environment variables in the `claude-dr` script appropriately, then run `./c
 - [`mcp-scholarly`](https://github.com/adityak74/mcp-scholarly): An MCP server to search for academic articles, currently supporting ArXiv.
   - Provides `search-arxiv` tool to find academic papers by keyword
   - Installation: `npx -y @smithery/cli install mcp-scholarly --client claude`
-- [`mcp-semantic-scholar-server`](https://github.com/adityak74/mcp-semantic-scholar-server): A FastMCP server for accessing the Semantic Scholar API.
+- [`mcp-semantic-scholar-server`](https://github.com/benhaotang/mcp-semantic-scholar-server): A FastMCP server for accessing the Semantic Scholar API.
   - Provides `search_papers_via_semanticscholar` tool for academic paper searches with filtering options
   - May require a Semantic Scholar API key for higher rate limits
